@@ -1,12 +1,6 @@
-# Blog 1
+# Blogs
 
-This is some text
+Here are my blogs
 
-## Things
-
-Did you know about this?
-
-```rust
-fn main() {
-}
-```
+* [blog1]
+* [blog2.md]

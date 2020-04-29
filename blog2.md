@@ -1,0 +1,13 @@
+# Blog 2
+
+This is some text
+
+## Cool Stuff
+
+```rust
+use error::Error;
+
+fn main() -> Result<(), Boc<dyn Error>{
+    Ok(())
+}
+```
