@@ -6,5 +6,5 @@
 Here are my blogs
 
 {% for post in site.posts reversed %}
-* [{{ post.title }}]({{site.baseurl}}{{ post.url }})
+* [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
