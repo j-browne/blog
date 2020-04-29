@@ -1,6 +1,10 @@
+---
+---
+
 # Blogs
 
 Here are my blogs
 
-* [blog1](blog1.md)
-* [blog2](blog2.md)
+{% for post in site.posts %}
+* [{{ post.title }}]({{ post.url }})
+{% endfor %}
