@@ -1,4 +1,6 @@
 baseurl: /blog
-theme: minima
+
 minima:
   skin: dark
+
+theme: minima
