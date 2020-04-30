@@ -1,3 +1,4 @@
 baseurl: /blog
+theme: minima
 minima:
   skin: solarized-dark
